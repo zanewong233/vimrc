@@ -18,7 +18,7 @@ if exists('$VIM_TERMINAL')
   quit
 endif
 
-let mapleader = ","
+let mapleader = " "
 inoremap jk <Esc>
 set autowrite
 
